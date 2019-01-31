@@ -10,4 +10,5 @@ function palindrome(str) {
     }
     return true;
 }
+console.log('Noon')
 console.log(palindrome('Noon'))
